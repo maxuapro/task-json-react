@@ -1,0 +1,18 @@
+.urlblock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.inputfield {
+    width: 100%;
+    padding-left: 15px;
+}
+
+.gobutton {
+    width: 100px;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 20px;
+}
